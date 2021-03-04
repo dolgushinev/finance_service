@@ -1,0 +1,12 @@
+INSERT into incomes (user_id, income, cdate) VALUES (1, 100.00, NOW());
+INSERT into incomes (user_id, income, cdate) VALUES (2, 200.00, NOW());
+INSERT into incomes (user_id, income, cdate) VALUES (1, 100.00, NOW());
+INSERT into incomes (user_id, income, cdate) VALUES (2, 200.00, NOW());
+INSERT into incomes (user_id, income, cdate) VALUES (1, 100.00, NOW());
+INSERT into incomes (user_id, income, cdate) VALUES (1, 200.00, NOW());
+INSERT into spend (user_id, spend, cdate) VALUES (1, 100.00, NOW());
+INSERT into spend (user_id, spend, cdate) VALUES (2, 200.00, NOW());
+INSERT into spend (user_id, spend, cdate) VALUES (1, 250.00, NOW());
+INSERT into spend (user_id, spend, cdate) VALUES (2, 200.00, NOW());
+INSERT into spend (user_id, spend, cdate) VALUES (1, 300.00, NOW());
+INSERT into spend (user_id, spend, cdate) VALUES (1, 200.00, NOW());
